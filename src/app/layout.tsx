@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://slyonyinyeboutique.vercel.app'),
   title: 'Sly Onyinye | Imported Thrift Fashion in Enugu',
   description: 'Discover stylish and affordable imported thrift clothes from Europe and China at Sly Onyinye in Enugu State, Nigeria. Quality handpicked dresses, tops & outerwear.',
   keywords: [
